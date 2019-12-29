@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:balithabib/backend.git
+[submodule "front"]
+	path = front
+	url = git@github.com:balithabib/front.git
