@@ -1,5 +1,17 @@
 # SHOPPING PHONE APPLICATION
 
+# DEMO
+![](demo_images/x.gif)
+
+# Backend
+
+    docker build -t nest-app .
+    # start
+    docker-compose up
+    # end
+    docker-compose down 
+ 
+# Frontend 
 ## All Products home without connexion
 ![alt text](demo_images/0.png)
 
@@ -14,3 +26,9 @@
 
 ## All Products home with connexion
 ![alt text](demo_images/4.png)
+
+
+# Dev
+In order to fill the base at the beginning I use a shell script
+
+	./script
