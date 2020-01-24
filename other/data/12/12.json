@@ -1,0 +1,18 @@
+{
+  "id": 12,
+  "stock": 60,
+  "name": "Samsung Galaxy S8 Noir Carbone",
+  "color": "Noir Carbone",
+  "price": "359€00",
+  "comment": [
+    "Taille de la diagonale : 5.8\"",
+    "Résolution du capteur : 12 mégapixels",
+    "Capacité : 3000 mAh",
+    "Capacité de la mémoire interne : 64 Go",
+    "8 coeurs ",
+    "RAM : 4 Go - LPDDR4 SDRAM",
+    "Génération à haut débit mobile : 4G",
+    "Système d'exploitation : Android 7.0 Nougat "
+  ],
+  "thumbnails": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "stock": 60,
+  "name": "APPLE iPhone 11 Blanc 64 Go",
+  "color": "Gris sidéral",
+  "price": "809€00",
+  "comment": [
+    "Taille de la diagonale : 6.1\"",
+    "Résolution du capteur : 12 mégapixels",
+    "Capacité de la mémoire interne : 64 Go",
+    "6 coeurs",
+    "Génération à haut débit mobile : 4G ",
+    "Protection : Revêtement oléophobe antitrace",
+    "Système d'exploitation : iOS 13",
+    "Fonctions du téléphone : Téléphone à haut parleur, commande vocale, compteur d'appels, téléconférence, mode avion, numérotation vocale, vibreur "
+  ],
+  "thumbnails": []
+}

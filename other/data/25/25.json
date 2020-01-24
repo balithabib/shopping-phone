@@ -1,0 +1,18 @@
+{
+  "id": 25,
+  "stock": 60,
+  "name": "Samsung Galaxy Note10 Noir 256 Go",
+  "color": "Noir",
+  "price": "939€00",
+  "comment": [
+    "Taille de la diagonale : 6.3\"",
+    "Résolution du capteur : 16 mégapixels",
+    "Capacité : 3500 mAh",
+    "Capacité de la mémoire interne : 256 Go",
+    "8 coeurs ",
+    "RAM : 8 Go",
+    "Génération à haut débit mobile : 4G",
+    "Protection : Verre Corning Gorilla 6 (verre résistant aux rayures)"
+  ],
+  "thumbnails": []
+}

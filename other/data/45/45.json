@@ -1,0 +1,16 @@
+{
+  "id": 45,
+  "stock": 10,
+  "name": " APPLE iPhone 7 Noir 128 Go",
+  "color": "Noir",
+  "price": "469€99",
+  "comment": [
+    "Taille de la diagonale : 4.7\"",
+    "Résolution du capteur : 12 mégapixels",
+    "Capacité de la mémoire interne : 128 Go",
+    "Génération à haut débit mobile : 4G",
+    "Protection : Revêtement oléophobe antitrace ",
+    "Système d'exploitation : iOS 10"
+  ],
+  "thumbnails": []
+}

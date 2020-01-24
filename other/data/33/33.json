@@ -1,0 +1,17 @@
+{
+  "id": 33,
+  "stock": 0,
+  "name": "Samsung Galaxy A71 Silver",
+  "color": "Silver",
+  "price": "479€00",
+  "comment": [
+    "Taille de la diagonale : 6.7\"",
+    "Capacité : 4500 mAh",
+    "Capacité de la mémoire interne : 128 Go",
+    "8 coeurs ",
+    "RAM : 6 Go",
+    "Génération à haut débit mobile : 4G",
+    "Cartes mémoire flash prises en charge : Port microSD jusqu'à 512 Go "
+  ],
+  "thumbnails": []
+}

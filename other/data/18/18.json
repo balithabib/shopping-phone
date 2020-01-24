@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "stock": 30,
+  "name": "Teeno Mobile Or Telephone",
+  "color": "Noire",
+  "price": "180€00",
+  "comment": [
+    "RAM: 3 Go + ROM: 32 Go",
+    "Taille de la diagonale : 6.2\"",
+    "Résolution du capteur : 13 mégapixels",
+    "Système d'exploitation: Android 8.1",
+    "Génération à haut débit mobile : 4G",
+    "Quadruple coeur"
+  ],
+  "thumbnails": []
+}

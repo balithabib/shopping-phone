@@ -1,7 +1,7 @@
 # SHOPPING PHONE APPLICATION
 
 # DEMO
-![](demo_images/x.gif)
+![](other/demo_images/x.gif)
 
 # Backend
 
@@ -13,22 +13,24 @@
  
 # Frontend 
 ## All Products home without connexion
-![alt text](demo_images/0.png)
+![alt text](other/demo_images/0.png)
 
 ## Information by product with id
-![alt text](demo_images/1.png)
+![alt text](other/demo_images/1.png)
 
 ## Authentication when you want to validate the dashboard 
-![alt text](demo_images/2.jpg)
+![alt text](other/demo_images/2.jpg)
 
 ## Dashboard or basket
-![alt text](demo_images/3.png)
+![alt text](other/demo_images/3.png)
 
 ## All Products home with connexion
-![alt text](demo_images/4.png)
+![alt text](other/demo_images/4.png)
 
 
 # Dev
-In order to fill the base at the beginning I use a shell script
+In order to populate the database in beginning, I use a shell script on the data in other, only once of course
 
 	./script
+
+The data we used is in other.

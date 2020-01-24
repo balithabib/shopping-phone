@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "stock": 15,
+  "name": "Nokia 5.1 Cuivre",
+  "color": "Cuivre",
+  "price": "139€99",
+  "comment": [
+    "Taille de la diagonale : 5.5\"",
+    "Résolution du capteur : 16 mégapixels",
+    "Capacité : 2970 mAh",
+    "Capacité de la mémoire interne : 16 Go",
+    "8 coeurs ",
+    "RAM : 2 Go",
+    "Génération à haut débit mobile : 4G",
+    "Protection : Verre Corning Gorilla 3 (verre résistant aux rayures"
+  ],
+  "thumbnails": []
+}
